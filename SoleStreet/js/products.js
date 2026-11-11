@@ -1,0 +1,12 @@
+// Sample product data for the SoleStreet student project.
+// Prices are illustrative and use Pakistani Rupees (PKR).
+const products = [
+  {id:1,name:"Velocity Runner",brand:"SoleStreet",category:"Running",price:12999,badge:"BESTSELLER",rating:"4.9",description:"A lightweight everyday runner with a cushioned feel and a bold, sporty profile.",image:"https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"},
+  {id:2,name:"Court Classic",brand:"SoleStreet",category:"Classic",price:10999,badge:"POPULAR",rating:"4.8",description:"A clean, timeless low-top sneaker that works with almost anything in your wardrobe.",image:"https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=85"},
+  {id:3,name:"Street Flex",brand:"SoleStreet",category:"Lifestyle",price:14999,badge:"NEW",rating:"4.9",description:"Street-ready styling with a comfortable shape made for long days and late plans.",image:"https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=900&q=85"},
+  {id:4,name:"Air Motion",brand:"SoleStreet",category:"Running",price:16499,badge:"NEW",rating:"4.7",description:"A breathable-looking athletic silhouette for your active everyday rotation.",image:"https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=900&q=85"},
+  {id:5,name:"Daily Low",brand:"SoleStreet",category:"Lifestyle",price:8999,badge:"",rating:"4.6",description:"An easy-to-style casual sneaker with a simple shape and versatile colorway.",image:"https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=900&q=85"},
+  {id:6,name:"Retro Track",brand:"SoleStreet",category:"Classic",price:13999,badge:"LIMITED",rating:"4.8",description:"Retro-inspired details meet a modern everyday fit in this classic sneaker.",image:"https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85"},
+  {id:7,name:"Pace Pro",brand:"SoleStreet",category:"Running",price:18499,badge:"",rating:"4.9",description:"A performance-inspired sneaker with a streamlined look and cushioned comfort.",image:"https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=900&q=85"},
+  {id:8,name:"Canvas One",brand:"SoleStreet",category:"Lifestyle",price:7999,badge:"VALUE PICK",rating:"4.5",description:"A relaxed, versatile everyday sneaker that keeps your look simple and fresh.",image:"https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=85"}
+];
